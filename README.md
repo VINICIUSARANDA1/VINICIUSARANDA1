@@ -2,8 +2,10 @@
 
 
 
-- 🔭 Hoje trabalho no ramo logístico
-- 🌱 Estudando HTMLL e CSS
+- 💼 Trabalho no ramo Logístico
+- 🧑🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 💻 Apredendo TypeScript e Vue Js
+
 
 <div align="center">
   <a href="https://github.com/VINICIUSARANDA1">
