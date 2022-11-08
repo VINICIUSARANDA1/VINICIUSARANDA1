@@ -2,9 +2,8 @@
 
 
 
-- 💼 Trabalho no ramo Logístico
 - 🧑🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 💻 Apredendo TypeScript e Vue Js
+- 💻 Apredendo React
 
 
 <div align="center">
