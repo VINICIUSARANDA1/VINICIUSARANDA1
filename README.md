@@ -3,7 +3,7 @@
 
 
 - 🧑🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 💻 Apredendo React Js
+- 💻 Apredendo React Js e TypeScript
 
 
 <div style="display: inline_block"><br>
